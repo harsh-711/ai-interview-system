@@ -81,8 +81,3 @@ http://127.0.0.1:8001/docs
 - Frontend UI (React)
 - Cloud deployment (Render / AWS)
 
-## 👨‍💻 Author
-Harsh Shukla
-
-## ⭐ Support
-If you like this project, please give it a star ⭐
